@@ -11,4 +11,4 @@ Refer to the link below for information on the genetic algorithm.
 
 ![Alt text](screenshots/initial.PNG?raw=true)
 ![Alt text](screenshots/partial.PNG?raw=true)
-![Alt text](screenshots/final.PNG?raw=true)
+![Alt text](screenshots/trained.PNG?raw=true)
